@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-06T19:01:31-07:00",
+  "generated_at": "2026-10-07T19:00:42-07:00",
   "system_live_since": "2026-09-22",
   "corpus": {
-    "evidence_items": 3019,
+    "evidence_items": 3070,
     "evidence_by_source": {
       "agent": 6,
       "chatgpt": 1028,
-      "claude-ai": 455,
-      "claude-code": 1619
+      "claude-ai": 459,
+      "claude-code": 1672
     },
     "note_files": 1331,
     "chunks": {
@@ -24,9 +24,9 @@
     }
   },
   "vault": {
-    "markdown_files": 1335,
+    "markdown_files": 1342,
     "folders": {
-      "01 - Projects": 77,
+      "01 - Projects": 84,
       "02 - Knowledge": 206,
       "04 People": 1,
       "06 - Sources": 822,
@@ -124,7 +124,7 @@
     },
     {
       "month": "2026-10",
-      "items": 266
+      "items": 323
     }
   ],
   "agents": {
@@ -153,12 +153,6 @@
     }
   ],
   "pulse": [
-    {
-      "date": "2026-09-23",
-      "ok": true,
-      "duration_s": 5409,
-      "batches": 97
-    },
     {
       "date": "2026-09-24",
       "ok": true,
@@ -236,6 +230,12 @@
       "ok": true,
       "duration_s": 58,
       "batches": 2
+    },
+    {
+      "date": "2026-10-07",
+      "ok": true,
+      "duration_s": 0,
+      "batches": 0
     }
   ],
   "graph": {
