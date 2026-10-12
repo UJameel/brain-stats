@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-11T03:00:24-07:00",
+  "generated_at": "2026-10-12T03:00:39-07:00",
   "system_live_since": "2026-09-22",
   "corpus": {
-    "evidence_items": 3271,
+    "evidence_items": 3349,
     "evidence_by_source": {
       "agent": 7,
       "chatgpt": 1028,
-      "claude-ai": 468,
-      "claude-code": 1885
+      "claude-ai": 471,
+      "claude-code": 1966
     },
     "note_files": 1497,
     "chunks": {
@@ -124,7 +124,7 @@
     },
     {
       "month": "2026-10",
-      "items": 545
+      "items": 629
     }
   ],
   "agents": {
@@ -153,12 +153,6 @@
     }
   ],
   "pulse": [
-    {
-      "date": "2026-09-28",
-      "ok": false,
-      "duration_s": 40587,
-      "batches": 19
-    },
     {
       "date": "2026-09-29",
       "ok": true,
@@ -233,6 +227,12 @@
     },
     {
       "date": "2026-10-11",
+      "ok": true,
+      "duration_s": 0,
+      "batches": 0
+    },
+    {
+      "date": "2026-10-12",
       "ok": true,
       "duration_s": 0,
       "batches": 0
