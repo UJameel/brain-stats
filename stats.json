@@ -1,14 +1,20 @@
 {
-  "schema": 1,
-  "generated_at": "2026-10-21T06:09:58+01:00",
+  "schema": 2,
+  "generated_at": "2026-10-21T12:50:51+01:00",
   "system_live_since": "2026-09-22",
   "corpus": {
     "evidence_items": 7484,
     "evidence_by_source": {
       "agent": 8,
+      "attendance": 22,
       "chatgpt": 1028,
       "claude-ai": 478,
-      "claude-code": 2162
+      "claude-code": 2162,
+      "gmail": 527,
+      "gmail-event": 111,
+      "gmail-log": 333,
+      "google-calendar": 559,
+      "google-chat": 2475
     },
     "note_files": 1593,
     "chunks": {
@@ -36,111 +42,133 @@
   "timeline": [
     {
       "month": "2024-09",
-      "items": 9
+      "items": 9,
+      "work": 9
     },
     {
       "month": "2024-10",
-      "items": 38
+      "items": 38,
+      "work": 38
     },
     {
       "month": "2024-11",
-      "items": 44
+      "items": 44,
+      "work": 44
     },
     {
       "month": "2024-12",
-      "items": 54
+      "items": 54,
+      "work": 45
     },
     {
       "month": "2025-01",
-      "items": 69
+      "items": 69,
+      "work": 51
     },
     {
       "month": "2025-02",
-      "items": 45
+      "items": 45,
+      "work": 36
     },
     {
       "month": "2025-03",
-      "items": 41
+      "items": 41,
+      "work": 33
     },
     {
       "month": "2025-04",
-      "items": 78
+      "items": 78,
+      "work": 35
     },
     {
       "month": "2025-05",
-      "items": 50
+      "items": 50,
+      "work": 23
     },
     {
       "month": "2025-06",
-      "items": 57
+      "items": 57,
+      "work": 18
     },
     {
       "month": "2025-07",
-      "items": 70
+      "items": 70,
+      "work": 41
     },
     {
       "month": "2025-08",
-      "items": 126
+      "items": 126,
+      "work": 75
     },
     {
       "month": "2025-09",
-      "items": 112
+      "items": 112,
+      "work": 70
     },
     {
       "month": "2025-10",
-      "items": 129
+      "items": 129,
+      "work": 66
     },
     {
       "month": "2025-11",
-      "items": 110
+      "items": 110,
+      "work": 54
     },
     {
       "month": "2025-12",
-      "items": 72
+      "items": 72,
+      "work": 41
     },
     {
       "month": "2026-01",
-      "items": 111
+      "items": 111,
+      "work": 41
     },
     {
       "month": "2026-02",
-      "items": 423
+      "items": 423,
+      "work": 278
     },
     {
       "month": "2026-03",
-      "items": 420
+      "items": 420,
+      "work": 237
     },
     {
       "month": "2026-04",
-      "items": 419
+      "items": 419,
+      "work": 281
     },
     {
       "month": "2026-05",
-      "items": 391
+      "items": 391,
+      "work": 288
     },
     {
       "month": "2026-06",
-      "items": 442
+      "items": 442,
+      "work": 344
     },
     {
       "month": "2026-07",
-      "items": 554
+      "items": 554,
+      "work": 399
     },
     {
       "month": "2026-08",
-      "items": 789
+      "items": 789,
+      "work": 382
     },
     {
       "month": "2026-09",
-      "items": 1666
+      "items": 1666,
+      "work": 547
     },
     {
       "month": "2026-10",
-      "items": 1353
-    },
-    {
-      "month": "2026-11",
-      "items": 31
+      "items": 1353,
+      "work": 520
     }
   ],
   "agents": {
