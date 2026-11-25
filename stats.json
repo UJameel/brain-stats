@@ -1,27 +1,27 @@
 {
   "schema": 2,
-  "generated_at": "2026-11-24T04:35:28+00:00",
+  "generated_at": "2026-11-25T03:10:51+00:00",
   "system_live_since": "2026-09-22",
   "corpus": {
-    "evidence_items": 11394,
+    "evidence_items": 11451,
     "evidence_by_source": {
-      "agent": 309,
+      "agent": 311,
       "attendance": 28,
       "chatgpt": 1028,
       "claude-ai": 559,
-      "claude-code": 5142,
-      "gmail": 717,
+      "claude-code": 5189,
+      "gmail": 724,
       "gmail-event": 112,
-      "gmail-log": 410,
-      "google-calendar": 924,
-      "google-chat": 3248
+      "gmail-log": 413,
+      "google-calendar": 930,
+      "google-chat": 3256
     },
     "note_files": 3152,
     "chunks": {
-      "evidence": 11344,
+      "evidence": 11401,
       "note": 18491,
-      "observation": 78341,
-      "prompt": 14655
+      "observation": 78757,
+      "prompt": 14785
     },
     "provenance_refs": {
       "observation": 182312,
@@ -30,7 +30,7 @@
     }
   },
   "vault": {
-    "markdown_files": 3159,
+    "markdown_files": 3160,
     "folders": {
       "01 - Projects": 90,
       "02 - Knowledge": 601,
@@ -172,8 +172,8 @@
     },
     {
       "month": "2026-11",
-      "items": 2971,
-      "work": 862
+      "items": 3070,
+      "work": 885
     }
   ],
   "agents": {
@@ -211,12 +211,6 @@
     }
   ],
   "pulse": [
-    {
-      "date": "2026-11-11",
-      "ok": true,
-      "duration_s": 163,
-      "batches": 4
-    },
     {
       "date": "2026-11-12",
       "ok": true,
@@ -294,6 +288,12 @@
       "ok": false,
       "duration_s": 148,
       "batches": 3
+    },
+    {
+      "date": "2026-11-25",
+      "ok": false,
+      "duration_s": 52,
+      "batches": 1
     }
   ],
   "graph": {
@@ -14501,7 +14501,7 @@
       [
         5,
         0,
-        457
+        458
       ],
       [
         4,
