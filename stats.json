@@ -1,6 +1,6 @@
 {
   "schema": 2,
-  "generated_at": "2026-11-27T03:58:08+00:00",
+  "generated_at": "2026-11-27T04:46:41+00:00",
   "system_live_since": "2026-09-22",
   "corpus": {
     "evidence_items": 11765,
@@ -292,8 +292,8 @@
     {
       "date": "2026-11-27",
       "ok": false,
-      "duration_s": 109,
-      "batches": 2
+      "duration_s": 162,
+      "batches": 3
     }
   ],
   "graph": {
